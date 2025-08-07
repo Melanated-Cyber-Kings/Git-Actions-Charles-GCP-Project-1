@@ -1,7 +1,7 @@
 provider "google" {
   project = "Jody65"
   region  = "us-central1"
-  credentials = "jody65-b245cfcbfb74.json"
+  credentials = "Bucket.json"
 
 }
 
