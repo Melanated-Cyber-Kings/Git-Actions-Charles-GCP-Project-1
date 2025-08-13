@@ -1,6 +1,6 @@
 #######################################################DEV-TOOLING############################################################
 #Brimah's code for workflows to automate the processes
-#Invictus will setup the Terraform.
+#Invictus will setup the Terraform. 
 
 name: 'Terraform'
 
