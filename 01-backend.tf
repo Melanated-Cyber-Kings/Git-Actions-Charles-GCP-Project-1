@@ -3,7 +3,7 @@ terraform {
   backend "gcs" {
     bucket = "new-bucket-us-gcp-actions"
     prefix = "terraform/state"
-    credentials = "git-actions-gcp-1-015b6a8c7abd.json"
+    # credentials = "git-actions-gcp-1-015b6a8c7abd.json"
   }
   required_providers {
     google = {
